@@ -1,5 +1,17 @@
 /* add code here to make your image 300px square */
-
+img {
+    border-radius: 25 px;
+    border: 1px solid red;
+}
 /* add code here to change the color and font family of your name/title */
+h1 {
+    color: royalblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
 
 /* Bonus: change the color of your list elements */
+li {
+    color: green;
+}
+
